@@ -30,7 +30,29 @@
         - Petra spolužák
         - vynálezce, má bláznivé nápady
         - je namyšlený a lakomý
+    - Čenda Jirsák
+        - Kamarád Petra, je pobožný, jeho koníčkem je sbírání hříchů ke svaté zpovědi
+    - Eda Kemlink
+        - kamarád Petra
+    - Pepa Zilvar
+        - z chudobince, kouří, vede dospělé řečí, statečný, jeho tatínek je žebrák
+    - tatínek Bajza
+        - majitel obchodu se smíšeným zbožím, přísný, ale zároveň i laskavý a opatrný na peníze
+    - maminka Bajzová
+        - hodná, rozumná, často zmírňuje tatínkovo přísnost
+    - Kristýna
+        - služka, pochází z horské vesnice Rampuše, bláznivá holka, všemu se směje
+    - pan Fajst
+        - místní starý mládenec, moralista, staré mravy
+    - Eva Svobodová
+        - dcera cukráře, Petrova favoritka
 - **Děj**
+    - Petrovi rodiče vlastní obchod. Petr má malou sestřičku Mančinku a staršího bratra, který s nima nebydlí protože pracuje v sudetech. petr se často z legrace pere služkou Kristýnou, které říká Rampepurda. Dělají si naschvály (Petr dá myš do kufru)
+    - Petr a jeho čtyři kamarádi prožívají různá klukovská dobrodružství. Ve městě je biograf, kam kluci rádi chodí. Lezou tam tajně, aby nemuseli platit.
+    - Chtěli si také ochočit vosy, ale nepodaří se jim to. Chlapci čtou dobrodružné knížky a chtěli by cestovat, plánují si cestu do Itálie, ale samozřejmě ji neuskuteční
+    - Hoši je perou s  Ješiňáky a Habrováky.
+    - Dělají si srandu z pana Fajsta, který věčně pomlouvá mládež, která ho nezdraví.
+    - Petr byl také několikrát navštívit Otakárka, který chce kamarády, ale nemá je, protože je bohatý a nesmí se s ostatními dětmi kamarádit, aby nepochtil špatné způsoby
 - **Výstavba vět**
 ### **III. část**
 - **Literárně historický kontext**
