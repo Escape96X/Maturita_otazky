@@ -36,6 +36,7 @@
 | ------------------------------ |:----------------------:| --------:|
 | Čapek Karel                    |Bílá nemoc              |    Ano   |
 | Čapek Karel                    |Válka s mloky           |    Ne    |
+| Havel Václav                   |Audience                |    Ne    |
 | Hrabal Bohumil                 |Ostře sledované vlaky   |    Ne    |
 | Hrabal Bohumil                 |Postřižiny              |    Ne    |
 | Poláček Karel                  |Bylo nás pět            |    Ano   |

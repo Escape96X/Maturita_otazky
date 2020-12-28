@@ -52,7 +52,13 @@
     - Chtěli si také ochočit vosy, ale nepodaří se jim to. Chlapci čtou dobrodružné knížky a chtěli by cestovat, plánují si cestu do Itálie, ale samozřejmě ji neuskuteční
     - Hoši je perou s  Ješiňáky a Habrováky.
     - Dělají si srandu z pana Fajsta, který věčně pomlouvá mládež, která ho nezdraví.
-    - Petr byl také několikrát navštívit Otakárka, který chce kamarády, ale nemá je, protože je bohatý a nesmí se s ostatními dětmi kamarádit, aby nepochtil špatné způsoby
+    - Petr byl také několikrát navštívit Otakárka, který chce kamarády, ale nemá je, protože je bohatý a nesmí se s ostatními dětmi kamarádit, aby nepochtil špatné způsoby. Petr slíbil mamince, že bude říkat "rukulíbám", aby ukázal svoje dobré chování, ale styděl se, tak to neříkal.
+    - Příbuzní Vařekovi jdou občas Bajzovi navštívit, ti před nimi skrývají, že mají k obědu husu, protože by he za to Vařekovi kritizovali, že mají maso a člověk se pak diví, kam ty peníze příjdou.
+    - Když do města přijede cirkus, Petřík touží vidět cizokrajná zvířata, proto je velmi hodný, pozorný, poslušný, nápomocný a vzorný, až to rodičům připadalo podezřelé. Učí se, hraje na housle a nechodí ven s ostatními. Když je ve městě cirkus, jeden chlapec z cirkusu Alfons Kasalický, s nimi chodí do školy. Kluci se sním chtějí skamarádit.
+    - Petr a ostatní kluci chtějí pomáhat v cirkusu. Vychovatelka udělá hysterickou scénu, že Otakárek je z bohaté rodiny a nebude dělat takovouhle práci, tak je ředitel vyhodí.
+    - Petr onemocní spálou a tak se mu zdají dobrodružné sny, které považuje za skutečnost. Ve snu mu táta koupí slona indického Jumba, který umí mluvit. Slon je obdivován celým městem. Spolu s Jumbem, Evou a ostatní kluky se vypraví do Indie.
+    - Navštíví krejčího, který pochází z Čech, spolu s ním se vypraví za maharádžou. Účastní se lovu tygrů. Zilvar se zamiluje do maharádžovi dcery a požádá o její ruku, je však dán do vězení. Princezna steskem onemocní, její matka má o ní strach a proto přesvědší maharádžu, aby dal Pepovi šanci. Jsou mu dány 3 otázky a na všechny zvládl.
+    - Pepovi to stouplo do hlavy, že se žení a nebavil s kamarády. poté po něm hodí vejce a poperou se. Poté se probudí a zjistí, že se mu to zdálo
 - **Výstavba vět**
 ### **III. část**
 - **Literárně historický kontext**
