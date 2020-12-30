@@ -23,14 +23,14 @@
 
 |    Autor               | Dílo          | splněno  |
 | ---------------------- |:-------------:| --------:|
-| Kafka Franz            |Proměna        |    Ne    |
+| Kafka Franz            |Proměna        |    Ano   |
 | Orwell George          |1984           |    Ano   |
 | Orwell George          |Farma Zvířat   |    Ano   |
 | Romain Rolland         |Petr a Lucie   |    Ano   |
 | Saint-Exepéry de Antone|Malý princ     |    Ano   |
 
 ## 4. Česká literatura 20. a 21. století
-### požadavek 8/5
+### požadavek 9/5
 
 |    Autor                       | Dílo                   | splněno  |
 | ------------------------------ |:----------------------:| --------:|
