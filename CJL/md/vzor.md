@@ -3,7 +3,7 @@
 ## Analýza uměleckého textu
 ### **I. část**
 - Zasadit výňatek
-- **Téma**: 
+- **Téma**:
 - **Hlavní myšlenka**:
 - **Motiv**:
 - **Motiv**:
@@ -19,4 +19,3 @@
 - **Literárně historický kontext**
 - **Další autoři**
 - **Autor**
-
