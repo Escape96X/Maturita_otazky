@@ -3,24 +3,48 @@
 ## Analýza uměleckého textu
 ### **I. část**
 - Zasadit výňatek
-- **Téma**: 
+- **Téma**: Městský pivovar
 - **Hlavní myšlenka**:
+    - Úsměvná a jemná kritika malomšťanského způsobu života za první republiky, obdiv k životu, hluboce citová vztah k člověku a k lidstvu
 - **Motiv**:
 - **Časoprostor**:
-- **Literární druh**:
-- **Literární žánr**:
+    - Nymburk - maloměsto, atmosféra městského pivovaru
+    - první republika, počátek 20. let
+- **Literární druh**: epika, próza
+- **Literární žánr**: Novelistická próza - střední rozsah, soustředěn na jednu událost, epizodu ze života, překvapivý závěr
 ### **II. část**
 - **Struktura díla**
+    - první část Nymburské trilogie (Harlekýnovy milióny, Krasosmutnění)
+    - chronologické, retrospektivní
 - **Hlavní postavy**
-    - Miloš Hrma
-    - Máša
-    - Hubička
-    - Zdenička Svatá
+    - Maryša - manželka správce pivovaru, všichni jí obdivují, bláznivé nápady
+    - Francin - pracovitý, správce pivovaru, je opak své ženy
+    - Pepin - Francinův bratr, energetický, hyperaktivní
+    - Gruntorád - doktor, co léčí kotník Maryše
+    - Boďa Červinka - Holič, co ustřihne vlasy
 - **Děj**
+    - Příběh vypráví o Maryše, která dělá vše na co si usmyslí. Jezdí po městě na kole a každý obdivuje její vlasy. Maryša má ráda zabiječky a také na ně ráda zve lidi. Francin, ale zabiječky nesnáší, ale Maryša si nenechá zkazit náladu. Druhý den po zabijačce si Maryša dá k snídani pivo a řízek a Francin si myslí, že je neslušná žena. Maryša chodí ke kadeřníkovi Bóďovi a všichni jí zavidí vlasy. Jednoho dne přijede bratr Pepin, který je roztržitý, uřvaný a energetický. Francin je nešťastný z jeho náštěvy. Pepin sice říká, že přijel jen na dva týdny ale Francin ví, že to bude na dýl. Maryša se švagrem tráví spoustu času a Pepin několikrát přeruší zasedání předsednictva. Jednou,když Francing se vrací z Prahy, veze Maryše přístroj vyrobený ze skleněných trubic a naplněný neonem na léčbu migrény a nervů. Pepin a Maryša si vyhledávají různé místa pro zabavení. Třeba na komín. Sundat je jedou hasiči. Pepin začne pracovat v pivovaru. Zanedlouho se do města dostane díky němu nový vynález, rádio
 - **Výstavba vět**
+    - Zvláštní druh vypravování s prvky poetismu i realismu, surrealismu i naturalismu. pevné kompozice i metody a volná návaznost epizod
+    - nespisovný jazyk - hovorová, slangová řeč, slovácké nářečí
+    - hyperbola - nadsázka
 ### **III. část**
 - **Literárně historický kontext**
+    - česká literatura 2. poloviny 20. století
+    - Rozvíjí se psychologická próza i inspirace historická. Prosazuje žánr literatury faktů a sci-fi
+    - V próze přicházejí experimenty, díla se zaměřují na  hledání nových jazykových a stylových prostředků. Uplaťňuje se fantastika a imaginace
+    - období 1945-1948 byl radost z konce války, z osvobození od fašismu, definitivní vítězství komunistů, období normalizace - snaha o návrat do  vztahu před r. 1968 - pražské jaro
+    - Byly zde 3 literární proudy
+        - oficiální literatura
+        - exilová literatura
+        - samizdatová literatura
 - **Další autoři**
+    - Vladimír Páral – Milenci a vrazi, Playgirls I. A II.
+    - Ota Pavel – Jak jsem potkal ryby, Smrt krásných srnců
+    - Radek John – Memento
+    - Milan Kundera – Směšné lásky, Nesnesitelná lehkost bytí
+    - Ludvík Vaculík – Rušný dům
+    - Eva Kantůrková – Smuteční slavnost
 - **Autor**
     - Český spisovatel
     - Narodil se v Brně - Židenicích jako nemanželský syn

@@ -38,7 +38,7 @@
 | Čapek Karel                    |Válka s mloky           |    Ne    |
 | Havel Václav                   |Audience                |    Ano   |
 | Hrabal Bohumil                 |Ostře sledované vlaky   |    Ne    |
-| Hrabal Bohumil                 |Postřižiny              |    Ne    |
+| Hrabal Bohumil                 |Postřižiny              |    Ano   |
 | Poláček Karel                  |Bylo nás pět            |    Ano   |
 | Smoliak Ladislav, Svěrák Zdeněk|Dobytí severního pólu   |    Ano   |
 | Viewgh Michal                  |Báječná léta pod psa    |    Ne    |
