@@ -1,0 +1,84 @@
+# **Král Lávra**
+## **Karel Havlíček Borovský**
+## Analýza uměleckého textu
+### **I. část**
+- Zasadit výňatek
+- **Téma**: 
+    - Irská pohádka s českými motivy
+- **Hlavní myšlenka**:
+    - Kritika společnosti a výsměch hlouposti, omezenosti panovníka
+- **Motiv**:
+    - satira s pointou na konci jako u bajky
+- **Časoprostor**:
+    - za doby rakouské nadvlády
+    - Čechy za rakouské nadvlády (irsko)
+- **Literární druh**: Poezie
+- **Literární žánr**: alegorická satirická skladba
+### **II. část**
+- **Struktura díla**
+    - chronologické
+    - 34 strof po 7 verších
+- **Hlavní postavy**
+    - Král Lávra
+        - starý dobrý král
+        - lidé ho měli rádi protože je nenechával trpět
+        - nechával se stříhat 1 za rok a holiče nechal popravit
+    - Kukulín
+        - holič, utrápený potřebou se svěřit
+    - Kukulínova matka
+        - orodovala za svého syna
+    - Červíček
+        - hráč na kontrabas
+- **Děj**
+    - V Irsku vládl král Lávra, který měl oslí uši. Byl sice hodný a oblíbený, nicméně vždy jednou do roka se nechával holit, a aby holič nevyzradil jeho tajemství o oslích uších, nechal jej pokaždé popravit. Každý rok si všichni holiči tahali los, kdo ho půjde ostříhat. Jednoho roku si vytáhl los Kukulín.
+    - Král ho ale ušetřil smrti neboť se jeho matka za něj přimluvila. Kukulín ale musel slíbit, že nic neřekne. Kukulína to trápilo a řekl to do staré vrby
+    - Šervík ztratil kolíček do basy tak si jí z té vrby vytvořil
+    - Jednou šel hrát královi a basa hrála "Král Lávra má dlouhé oslí uši"
+    - Lid si ale na uši zvykly a Kukulín se stal holičem krále
+- **Výstavba vět**
+    - spisovný, nepravidelné verše
+    - prostředky typické pro pohádku
+    - Epiteta, Metonymie, personifikace, ironie, inverze, řečnické otázky
+### **III. část**
+- **Literárně historický kontext**
+    - **Realismus**
+        - snaha zobrazit reálný život
+        - zobrazení typického jedince
+        - autor upozorňuje na zlo ve společnosti
+        - dílo odráží skutečnost a skutečnost odráží dílo
+    - **Romantismus**
+        - hluboce rozporuplný, odmítá staré formy
+            - opovrhuje konvencemi
+        - hrdina je výjimečný
+            - obdivuje prostého člověka
+            - většinou vyděděnec
+        - nezobrazuje celou skutečnost
+            - subjektivní pohled
+- **Další autoři**
+    - **Světový realismus** 
+        - Honore de Balzac - otec Goriot
+        - Charles Dickens - kronika Pickwickova klubu
+        - Guy de Maupassant - kulička
+    - **Národní obrození**
+        - Božena Němcová - Babička
+        - Karel Jaromír Erben - Kytice
+        - Karel Hynek Mácha - máj
+        - Josef Kajetán Tyl - Fidlovačka aneb Žádný hněv a žádná rvačka
+- **Autor**
+    - Český básník, publicista a literární kritik
+    - stal se klasikem české politické satiry
+    - Realismus, 2. generace Národní obrození
+    - založil si vlatní noviny
+    - psal epigramy - krátké satirické básně
+    - Na Šafaříkovo doporučení odešel do Ruska
+        - Havlíček vychovatelem
+        - poznává ruské poměry, nevolnictví, carskou vládu
+    - Vyhnán do Brixenu, 1851 byl eskortován policií
+    - **Díla**
+        - Epigramy-pět oddílů
+        - Obrazy z Rus - cestopis
+        - Tyrolské elegie - elegie žalozpěv
+        - král lávra - 1854
+        - Křest svatého Vladimíra -satira
+
+
